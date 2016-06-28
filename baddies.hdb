@@ -936,6 +936,7 @@
 08526509e96ee14c8bd996fdbc2d4c94:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 0853c40939690b37450cb168ee9ca589:1730376:kurobeats_Packed.Malware
 0854b94814c8649a15a04980749e444f:417280:kurobeats_UDS.DangerousObject.Multi.Generic
+085521ef73328f8227c00ae8a0469990:208184:kurobeats_Ransom.Cerber
 0859e7fdf5aea85d26e3e528d0171861:380174:kurobeats_Packed.Malware
 0859f81df4d229fd4aea0e1106bbbc27:2535432:kurobeats_W32.HfsAdware.1248
 085c06862c335338f1f911d3b6652eef:2535432:kurobeats_W32.HfsAdware.1248
@@ -1582,6 +1583,7 @@
 0de4aa7527842c5f0024cca248ffc996:2614128:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 0de9c8d35f68a3a6edc7b6793c383512:2609872:kurobeats_W32.HfsAdware.1248
 0de9c8d35f68a3a6edc7b6793c383512:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+0dea7dd2976ec94667e71b56601ee8cd:228662:kurobeats_Win32.Evo-gen [Susp]
 0deea2cb17ef1b87969d630d6cb61542:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 0def997a7f0561823c0fc2b34881187a:1730512:kurobeats_W32.HfsAdware.1248
 0df0a24c4725f552ed54693fd996b7cc:97280:kurobeats_X97M.Downloader.AD
@@ -2270,6 +2272,7 @@
 13b198f31500d9a715ff47ac568925ae:3350816:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 13b2ede291d01541caa3a5a257848016:108544:kurobeats_Gen.Variant.Razy.22454
 13b5d744aa3237171d270913206ae907:616848:kurobeats_Live Soft Action (PUA)
+13b7337b04b55952988c1293425b4691:224578:kurobeats_Win32/Injector.DAYV
 13bc442858b68360459045d9090d9719:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 13bf0955dfa07eaf04b678e96cf9cda8:2604976:kurobeats_W32.HfsAdware.1248
 13c04ba4108fee4c3cf74d9cba1c3cba:316146:kurobeats_Packed.Malware
@@ -3183,6 +3186,7 @@
 1bea7dcfe4aeeecc3c58ce226b8826e0:2535432:kurobeats_W32.HfsAdware.1248
 1becdb5816b6d90d1aec34b9cf8d64cc:418488:kurobeats_PUP.Optional.BrowseFox
 1bf09cc2772f84b7722e006fb8a41669:2535432:kurobeats_W32.HfsAdware.1248
+1bf29d2af03ecec1fa347321f4c3f112:208122:kurobeats_Ransom.Cerber
 1bf2c95bfbf5b64f2df554c567fe8888:1730512:kurobeats_W32.HfsAdware.1248
 1bf32d4d0f9b654c2d90803f17557b92:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 1bf332442fa017922772cf2485afa985:2611112:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
@@ -4134,12 +4138,14 @@
 23ce0d76626c04a710680483ff9cb0f3:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 23d1bf94402e15580a1175ddc6d8a5fb:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 23d660df4f968495659357253ed94bdd:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+23dc73171252366a641cbbbef35e5bed:274498:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9987
 23deaef2ea980c00c2ac3bee6833d7c4:2604976:kurobeats_W32.HfsAdware.1248
 23dfd8cc142482eb3a9873a9e9a77aaa:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 23e093a7b7e5184c5ddcb034dcbc9345:114688:kurobeats_Mal/Ransom-EG
 23e2bdcc1b4c9530f6898a619f9efb97:273920:kurobeats_HW32.Packed.E5A8
 23e4081e63a35884ca9c5ac39eb5fd8e:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 23e7a69cdbe32bddc716017b9e8493b2:2604976:kurobeats_W32.HfsAdware.1248
+23e900f8c1985b3c1a460eb4a7da2690:270579:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9994
 23ea5d4e57a9cce05e1aa7a996b78f95:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 23efd0b35d61900141745d97a1c98727:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 23eff15eab90fdf643e0ec50efc61c98:348160:kurobeats_HW32.Packed.B2B0
@@ -4831,6 +4837,7 @@
 29a149273b683e1e7ba9b2dd5d23ecc7:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 29aaa298ea3f6f58f0554c8d3f70ca87:2535432:kurobeats_W32.HfsAdware.1248
 29ab548bf6270dd0d3d8794719e635b8:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+29ad4a9080b0d78d8493a5b93235c20d:144896:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9994
 29af63da548e336930dcfc6ae7ad6892:2614128:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 29b0293e1f810825fbb15b975ae33724:3350816:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 29b6a274a82ee484f421e3ce3bfbb7dd:486944:kurobeats_not-a-virus.WebToolbar.Win32.Neobar.n
@@ -4877,6 +4884,7 @@
 2a011b733bce1195ec8d7a0c81af5375:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 2a051cb596e5f21e9d43618d1105c9a2:3604480:kurobeats_Adware.BrowseFox.Win32.297017
 2a06f35a3735af41a8e2314d5d56d995:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+2a0d8ba8b7dfb95f0d57cdbc57b179d1:49013:kurobeats_Packed.Malware
 2a12994dda719c13f9734ae21b3a5f30:2535432:kurobeats_W32.HfsAdware.1248
 2a130cff95db67c330970c439a841075:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 2a13fe0f98dd04495347969a712ead87:2535432:kurobeats_W32.HfsAdware.1248
@@ -5540,6 +5548,7 @@
 2fad01661f12b1ae3bcd70112868b1f5:2535432:kurobeats_W32.HfsAdware.1248
 2fae901b2b589d9b4fe6b7f4c8805676:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 2fb0db9c70e79b715710a7b5b75bd8af:2604976:kurobeats_Artemis!2FB0DB9C70E7
+2fb487c7eef0bd83933115c5d05b2e48:144896:kurobeats_Trojan.Symmi.D1027C
 2fb7e88d285544c6e918c775ba435141:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 2fbc7a4aa9723cc49723f6d3da6d9c05:149504:kurobeats_Trojan.GenericKD.3204441
 2fbf52b84eaa769e00bbc991356af7e0:1364932:kurobeats_Trojan/Dropper.Agent.afd
@@ -6239,6 +6248,7 @@
 35a32a87c72fc5e681db3bc1617a6335:3350816:kurobeats_W32.HfsAdware.1248
 35a32a87c72fc5e681db3bc1617a6335:3350816:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 35a5e458c4491e242d625f1f79c4e43d:1730512:kurobeats_W32.HfsAdware.1248
+35a632a14359c0ab09b6d255daa2935f:270518:kurobeats_Gen.Variant.Razy.73313
 35a76252d342a097443e2a82ae5c382e:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 35a976177da967d5b9e52757b7e255f9:616848:kurobeats_Live Soft Action (PUA)
 35aeea33c3f99cc23d7f25e87fcd213f:278850:kurobeats_Packed.Malware
@@ -6875,6 +6885,7 @@
 3b5c915427bf8a211c8dee36f6766b78:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 3b617e646aea541ef16ad30bb0a918d4:2614128:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 3b61936a1654ce557d73e1ff5e9d969f:2604976:kurobeats_W32.HfsAdware.1248
+3b635c4813a1d88a3d23531b14701abc:224517:kurobeats_Trojan.Crypt
 3b63d9b216105a43919888a4105e2bd7:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 3b661de9f315452287bd3e7fc124693c:1730512:kurobeats_W32.HfsAdware.1248
 3b67486af90cf3c962ec72974b144672:2604976:kurobeats_W32.HfsAdware.1248
@@ -7157,6 +7168,7 @@
 3df3d0c35638c04a49a8d7ebcf41c0c9:2609872:kurobeats_W32.HfsAdware.1248
 3df3d0c35638c04a49a8d7ebcf41c0c9:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 3df4ee7a8b10c65682fae353a68d96c5:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+3df5752b7687d2677cea173f538b1e5e:270457:kurobeats_Gen.Variant.Razy.73313
 3df7286264a4b912b6495da42efed5f4:168479:kurobeats_Gen.Variant.Symmi.38173
 3dfbb18fef27f95bda085555830a5893:435486:kurobeats_Mal/Ransom-EG
 3e002383dc20014db213be06a04512de:1730376:kurobeats_Packed.Malware
@@ -7691,6 +7703,7 @@
 42c80862c5fdc2e05a8c0fd1961aa956:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 42c8594b4d6f1c483ad7c968622a6905:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 42c96492cab0088158e710f9498dac27:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+42ca0abf2648e287f80e2d904c6b4dd6:270605:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9994
 42cca2ca94e87774d341138c78181f6c:188416:kurobeats_Ransom.Locky
 42cfb5d885e7c3bb4f2a02f8ccd37513:2604976:kurobeats_W32.HfsAdware.1248
 42d1b31962db14628f6efe55a3bef887:2535432:kurobeats_W32.HfsAdware.1248
@@ -7850,6 +7863,7 @@
 442cf873c8c7eda041d0e9ef055952d4:1730376:kurobeats_Packed.Malware
 442dabb05fbf20d2214ccb2bf28b94a5:2609264:kurobeats_W32.HfsAdware.1248
 442e3b83c5bdc77232e67f02caca862e:416256:kurobeats_a variant of Win32/Kryptik.EQIQ
+442eb20dc9a4a61636375b5cd871003d:278871:kurobeats_Trojan.Kovter
 442ef250f0b3433d15dc0fc60b055550:1730512:kurobeats_W32.HfsAdware.1248
 442ef250f0b3433d15dc0fc60b055550:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 4431338513cb3a1415212b99c7326a9a:204020:kurobeats_Artemis!4431338513CB
@@ -8166,6 +8180,7 @@
 46c6f89aa8810e8334a9f8ad4dccde47:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 46ca28b63d595519239a306e7e87532c:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 46cbcadf8b78dc06604c803981e30793:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+46cc27a2ce0f33d9a0df83791f709066:274821:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9987
 46ccf67d8768ee560087ca1df5cf42e6:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 46d7686f10c4ad1582b5c550259f7ac9:851101:kurobeats_PUA.RiskWare.Chinbo
 46de555e645699552f95efa6fcf588f0:107520:kurobeats_Gen.Variant.Razy.22454
@@ -8540,6 +8555,7 @@
 4a578901dcbbeb919d8b32b9b482cd5a:3350816:kurobeats_W32.HfsAdware.1248
 4a58294e1a702173b7b1c09edf35c5f2:2609872:kurobeats_W32.HfsAdware.1248
 4a5a6a05248e2721efcd0ff84b7e9f3d:6046048:kurobeats_a variant of Win32/Adware.Weiduan.E
+4a5eb4187cd4971d2dc34d0c87a65fc9:224539:kurobeats_Trojan.Crypt
 4a689fa8562013e9ab000131f9f39307:195902:kurobeats_Packed.Malware
 4a6a159a07153adaa284a6e039ceae0e:1730376:kurobeats_Packed.Malware
 4a6a3756b58d31d2645d92fecfa3d010:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
@@ -9426,6 +9442,7 @@
 524c1483a7250f7cc78ae7172cc67113:1730512:kurobeats_W32.HfsAdware.1248
 524c1483a7250f7cc78ae7172cc67113:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 524e30621d874b12fae09466cda54dcf:2609872:kurobeats_W32.HfsAdware.1248
+524e42b71621049ab7f30d8f5cee6709:278621:kurobeats_Trojan.Kovter
 52503be7675e369c08746c0d19595790:1730376:kurobeats_Packed.Malware
 5250d3fb107fd7d864bbedb593466434:2535432:kurobeats_W32.HfsAdware.1248
 525163201dae60fd57a9e54b03886377:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
@@ -9762,6 +9779,7 @@
 554195d9ed9f9999a9ca2481adb10c57:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 55444b869e2850f5200a5bfb0f550ff3:2609872:kurobeats_W32.HfsAdware.1248
 55463304fa29baf42b3aab859a3bcf57:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+55506de9b268117440f989ed788cb2e6:274557:kurobeats_Packed.Malware
 55510490fbfea5662f884ba019e3589f:822818:kurobeats_Packed.Malware
 5552830967998b483531962b09696352:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 555291b08850e4502cfcae7919cca9ac:15609:kurobeats_Exploit.Linux.Small.l!IK
@@ -9966,6 +9984,7 @@
 5715fc6b14e981874486eac8c79af7c7:3350816:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 5717fb538ba5a8912481b1b0e335974d:116736:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9998
 571adc4253b68a73e9a044513ae0044a:155648:kurobeats_HW32.Packed.358B
+571f60129277776839041e976e7c745e:228669:kurobeats_Trojan.Injector
 5721480f81425d909d49050564bdad83:2604976:kurobeats_W32.HfsAdware.1248
 5721df1d1528f72a5dd066ffff3ad450:6917:kurobeats_Packed.Malware
 5725634a2dfc8b451d1e6c151eb1a07c:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
@@ -10920,6 +10939,7 @@
 5f1ef5c466cbd35ef1eae70b0043307b:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 5f21d2b787185eb2a692bd2a7a204682:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 5f228f26906accde677284efe47a2eca:1730512:kurobeats_W32.HfsAdware.1248
+5f27719a396ff53edda081dc287f6787:270482:kurobeats_Gen.Variant.Razy.73313
 5f2c940b1e6c8c75caf7aa32bfbbdc28:2604976:kurobeats_W32.HfsAdware.1248
 5f2e692d0c966001a1ee9d6954b93e2e:261764:kurobeats_BehavesLike.Win32.Tool.dc
 5f3100e528f88d29a4fc7b6ea9ef1d9a:3353000:kurobeats_W32.HfsAdware.1248
@@ -12909,6 +12929,7 @@
 7006c272e6bad02115bd32ecc018c583:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 7007365ca55f98179be09af6c197c6a4:2614128:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 7007448525725536d8bf1ba4981e37e8:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+7007629eb393be5484992526abdd2693:278731:kurobeats_Trojan.GenericKD.3349567
 700af6a1b4e999c98202be7b2d093769:2535432:kurobeats_W32.HfsAdware.1248
 700b135710453f260d1fd95753d487fc:1245184:kurobeats_Packed.Malware
 700f5dfdd822c53ffefdae9ff78961e6:2560:kurobeats_UDS.DangerousObject.Multi.Generic
@@ -13669,6 +13690,7 @@
 76c66c0d57b63756bbdda9379430d764:56983:kurobeats_Rogue.Autoit.Defmid.AC
 76c798c36415acdc50bea295db3f3ed1:583168:kurobeats_HW32.Packed.56D3
 76c88416680d5a6249621d3a857ce5a2:1730512:kurobeats_W32.HfsAdware.1248
+76ce4e11e468ed28cd93ac89c789d6a8:278684:kurobeats_Trojan.GenericKD.3349628
 76cf879d1755e8e89d846c548511de75:3686:kurobeats_Trojan ( 004dfe6d1 )
 76d198988f9db8c60278252a1e8dac84:2609872:kurobeats_W32.HfsAdware.1248
 76d1fad29d871c4bb321b0e0374c7eb6:1730512:kurobeats_W32.HfsAdware.1248
@@ -14790,6 +14812,7 @@
 807ecdceb7f5b3ccbe4ea49c897590b9:450598:kurobeats_Gen.Variant.Coantor.29
 807f5b15912bd7ee8bdd2edac5ef2f41:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 8082c508bd650b3eba6cb29aacbcd3e9:315687:kurobeats_Packed.Malware
+8085e4bf7107770d71f4c226bea847cb:270536:kurobeats_Trojan.GenericKD.3350132
 80884bd28ec1a0bdfa1e5343bf139139:1730512:kurobeats_W32.HfsAdware.1248
 808a8eac400c6abf49d352ae1d944c2a:184320:kurobeats_Trojan.MalPack
 808d49c0e210b48b80a19164cde37ae6:2618160:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
@@ -14880,6 +14903,7 @@
 8146f26813bef10c69757bdce53e0c3e:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 8148e842de6d87908852d39a13960793:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 814d1fc7abc9d3b67da4f41ed8c07f26:2604976:kurobeats_W32.HfsAdware.1248
+8154834969bd6c529d3fc4622f78c629:278765:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9999
 815734bc2af60bcede4b359341c271e3:2604976:kurobeats_W32.HfsAdware.1248
 815af2e37123a9edea3729861017029f:2535432:kurobeats_W32.HfsAdware.1248
 815f7606ab3ac2f30aac8622ec313cc0:2609264:kurobeats_W32.HfsAdware.1248
@@ -15049,6 +15073,7 @@
 82b00ff6ee8d574dfae6b00c7f0c144a:98304:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9999
 82b02fe52a7da2088aca41aa4946a9ca:198144:kurobeats_Ransom.FileLocker
 82b47916651772a209f5ee4eccb8bc6f:491520:kurobeats_Gen.Variant.Razy.29180
+82b4f6e9cff474746535d9c100904c6b:144896:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9994
 82b6ad5fde3d81f6da40e03217a553ba:372736:kurobeats_Mal/Ransom-EM
 82b8fe5a4c77c9ea49ed35f6210adc75:569408:kurobeats_W32.HfsAdware.59CA
 82bb3b7e6514b4287d78c05129511b25:2604976:kurobeats_W32.HfsAdware.1248
@@ -15306,6 +15331,7 @@
 85023725f6bb2f5a89a560d46e297eeb:1313792:kurobeats_HW32.Packed.DC66
 850f5208821f6c8628c50161cf3078ee:603648:kurobeats_Gen.Variant.Razy.49675
 85109a2d821c92536a2f43c66738eaac:547593:kurobeats_Gen.Variant.Mikey.49902
+8512aa6269363b160c120ad37a12c89d:144900:kurobeats_Packed.Malware
 8517951a804ce412d54f30d29a9a385f:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 851912d81ce1b0adccf9181fd29564e7:1684991:kurobeats_W32.HfsAtITSTIL.6916
 851c4b6256377619e4e37015a2f56614:1730376:kurobeats_Packed.Malware
@@ -16618,6 +16644,7 @@
 90801d8ccf465213879d22cb25339b83:665400:kurobeats_a variant of Win32/PornTool.GuaGua.A potentially unsafe
 9080559c8042efc6f8f3210744a6b00a:1730512:kurobeats_W32.HfsAdware.1248
 90805d0f22c7c665ed9cf951148cb572:786432:kurobeats_Packed.Malware
+90833498f79e17839e8e39e291852871:224534:kurobeats_Trojan.Crypt
 9084f28a2835b337f9ecbbf897328cbf:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 908ab82a5017de93205afd63e8d17dbc:3350816:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 908dcd876a23dfae80ff3fc13dbc4fcd:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
@@ -16647,6 +16674,7 @@
 90c8af8f4356bef5304e3ed7562244b7:1730376:kurobeats_W32.HfsAdware.1248
 90c8be2535170f4d448278f7fa2bb7a0:2604976:kurobeats_W32.HfsAdware.1248
 90cc154669d65b8a2a9b2f46705d0d63:2618160:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+90cd7a0ebbed727af7f30e8cc47b932c:224571:kurobeats_Trojan.Crypt
 90ce5414b4cb05ab60af5d538006a5cf:2609264:kurobeats_Packed.Malware
 90cf214ef4014f3adf0a7fe6c25591da:2618160:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 90d0280a0bca2f9cc49a0f195882f810:2535432:kurobeats_W32.HfsAdware.1248
@@ -16842,6 +16870,7 @@
 927216342c5b06bd7849881c68383859:2535432:kurobeats_W32.HfsAdware.1248
 9275d798ac284dc9b2ab41a48f1120c9:15361221:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9993
 9276baca531c7a497910856af4cccef8:2535432:kurobeats_W32.HfsAdware.1248
+927791fc72e57ae256c15d085f9c4466:271360:kurobeats_Gen.Variant.MSILPerseus.37714
 9277a461f39cf4880f5ab41e9e14f58d:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 92788243db8288e649623c411ee344e0:1730512:kurobeats_W32.HfsAdware.1248
 927a99ca2e86ae8091ec96a67501782e:2604976:kurobeats_W32.HfsAdware.1248
@@ -16899,6 +16928,7 @@
 92e38a7aea3a9a79828ac81789766ed4:465427:kurobeats_Packed.Malware
 92e61c208c4b6e8c030bc4f61b28b1e2:339968:kurobeats_HW32.Packed.7C23
 92ee2494fd1d73304e177470c3f595ee:2604976:kurobeats_W32.HfsAdware.1248
+92f35499f53280477520827ccbc6e0d8:214568:kurobeats_Backdoor.Bot
 92f634f70f61a048a4bb7303b1433a1a:413696:kurobeats_Mal/Ransom-EJ
 92fe10509664fca5a719d581472d7a8a:2535432:kurobeats_W32.HfsAdware.1248
 92fecd9b08d6021da9bdf864f8f85a65:2535432:kurobeats_W32.HfsAdware.1248
@@ -17014,6 +17044,7 @@
 9403371ba9fccfc5215a3b1d60fc8bad:3350816:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 9403c96a7e6ba80c31fcdf2832e0c2a6:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 9404884ec697672759c902a2847c6259:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+940c77cedf181c47348728c1c9559141:144896:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9995
 940dbbcd340a5a4057b29749cd4b08de:2535432:kurobeats_W32.HfsAdware.1248
 940e644b57130d6324e89cc8109161a6:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 9414896465003d4b98314f1ff20c5aa0:1068032:kurobeats_HW32.CDB.Eb37
@@ -17840,6 +17871,7 @@
 9b597feebe97bb8add1be3cb47cc66fe:343040:kurobeats_Ransom.TeslaCrypt
 9b5b25eb1c5a2d3ebb6d64e304af4997:1730376:kurobeats_Packed.Malware
 9b5c0ead0167b47f05a963f3f979b45d:315949:kurobeats_Packed.Malware
+9b5c7f0298e42a6942120bbe9cf92b13:224522:kurobeats_Trojan.Crypt
 9b5e4bcf8ff9d6a5bb6a888cae4fe52f:1730376:kurobeats_Packed.Malware
 9b60718ad1468473e34c33c9fe733cf4:770048:kurobeats_Gen.Variant.Zusy.184247
 9b65ed4b3f6121e72d6def0c6b7ca837:80384:kurobeats_Packed.Malware
@@ -18087,6 +18119,7 @@
 9d9b1c4bbbf480f8cbec61b78e655e5a:1730512:kurobeats_W32.HfsAdware.1248
 9d9c0f79bc5f85fd9bbae3e8c07f2f9c:114688:kurobeats_Trojan.Win32.Injector.cdgy (v)
 9da0898f94377e820046082ff01bbb98:2609872:kurobeats_W32.HfsAdware.1248
+9da0f6f3c3a46ab001af902339e8005a:144896:kurobeats_Gen.Variant.Symmi.66172
 9da331f4353f5b0033c162eb308a8197:151552:kurobeats_Ransom.Locky
 9da4c7bc44cd20877b09e812a2935cdd:435788:kurobeats_W32.HfsAutoB.EBA7
 9da959be79f717374aa553e7fc9d8515:2609264:kurobeats_Packed.Malware
@@ -19599,6 +19632,7 @@ aae3f125eb9d52a1d883eee522a1747f:106496:kurobeats_UDS
 aaea2df11af937b67ec9b486281655b3:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 aaef09c7a853dce5db6c966973537c31:360448:kurobeats_HW32.Packed.4BA6
 aaf06eecafc30c68479a2146deaa479c:3022848:kurobeats_Packed.Malware
+aaf1d3651b4815c074641a5d7c892747:144896:kurobeats_Packed.Malware
 aaf3bbe3b6783517e3bb3b502ceafdf1:2614128:kurobeats_W32.HfsAdware.1248
 aaf5de9c7930e7c21f5212e4826c01ca:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 aaf665ca75d7ece298928f3af87786a8:136131:kurobeats_Mal/Generic-S
@@ -20749,6 +20783,7 @@ b4af776a3a529d2f157879ac4ea457ec:2609872:kurobeats_a variant of Win32/Toolbar.In
 b4b37adf6990617caf51274623213d86:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 b4b40457d1c4ba7757862490463e46de:102400:kurobeats_Mal/Ransom-EG
 b4b60da12992753e848a87efbbff7c98:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+b4b73ef0381a4c61349433d87d0794c0:224492:kurobeats_Trojan.GenericKD.3350139
 b4ba32c0c9af54d6fb10d50cab535610:2604976:kurobeats_W32.HfsAdware.1248
 b4ba32c0c9af54d6fb10d50cab535610:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 b4c09d472f1c1cb1141656b610f397bf:2535432:kurobeats_W32.HfsAdware.1248
@@ -20973,6 +21008,7 @@ b6937d32709e8ce6c205667b3717eaa1:429023:kurobeats_Trojan.Generic.10224102
 b69557b5c90bda4e4cf0f36df0ab019b:1730512:kurobeats_W32.HfsAdware.1248
 b695fa3a12f8cb97a182e7a5f687e120:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 b69824aeeae566bfb0b73d0771aede25:2618160:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+b69e72225c9e0a2511c8c1dee02ae041:228655:kurobeats_Trojan.Injector
 b69f7b45a50552af29614dd25bcaaf58:3350816:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 b69f7d441d300b8d0c79070fb8609e38:616848:kurobeats_Riskware ( 0049f6ae1 )
 b6a1e369d04463d4a4bf0ff152bc277b:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
@@ -21776,6 +21812,7 @@ bcf233fb4298f74dca8fa9495092287b:2604976:kurobeats_W32.HfsAdware.1248
 bcf781e854482f941bdce842220e4ca8:1730512:kurobeats_W32.HfsAdware.1248
 bcf781e854482f941bdce842220e4ca8:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 bcfb325a2e38cca4836de6acd26e0193:3353000:kurobeats_Packed.Malware
+bcfd26d5c0d498e769bf8e3164262bd7:270602:kurobeats_Trojan.GenericKD.3350091
 bcfd9f02bb06eec9a706aa9e0bdbcc44:321150:kurobeats_Packed.Malware
 bd0080d86dd52d641113643f06e40473:122368:kurobeats_HW32.Packed.77AC
 bd00f5a392a7383c9460711aeaa2f59d:348160:kurobeats_HW32.Packed.1EC9
@@ -22235,6 +22272,7 @@ c09d2d84a88e367ab636747ef42b3b10:2535432:kurobeats_W32.HfsAdware.1248
 c0a0070c25512a34f55fcb5448c13251:2535432:kurobeats_W32.HfsAdware.1248
 c0a01298c05f2734155a1f73fd8655cc:348160:kurobeats_Ransom_CRYPTESLA.YUYAIY
 c0a284dfa0b1303583e26359ebc249dc:2535432:kurobeats_W32.HfsAdware.1248
+c0a2e75dc7e955524335f46c69c3d0fd:214568:kurobeats_Packed.Malware
 c0a32bbe0a1bc322dd2b508dde04f756:1730512:kurobeats_W32.HfsAdware.1248
 c0a32bbe0a1bc322dd2b508dde04f756:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 c0a3e52fceccc02926d9796ae0fdb2ed:304332:kurobeats_Trojan.GenericKD.3318273
@@ -22563,6 +22601,7 @@ c35899b845954313eaf019c0d299c8db:134656:kurobeats_a variant of Win32/Kryptik.EZO
 c359a9315f3565608c5df12dfc6ac364:2604976:kurobeats_W32.HfsAdware.1248
 c35a2fe81e15541fb47e0930a69ce65d:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 c35bb319ed9fe04ed0bc1b554190c440:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+c35c8184756310d2014ac48eb9d0c185:144896:kurobeats_Gen.Variant.Symmi.66172
 c35cb2f035cdddeb2c3133f362d91423:2612192:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 c35d9f7ace50588d237e78540faefcd1:2604976:kurobeats_W32.HfsAdware.1248
 c35e755ad8fb380effc778dbbefba4b0:726016:kurobeats_Trojan.Generic.13013732
@@ -24062,7 +24101,9 @@ cfe0131c260d7e7fb40197c8d9a4815d:2535432:kurobeats_W32.HfsAdware.1248
 cfe20301e220e952578d467219d6187f:2535432:kurobeats_W32.HfsAdware.1248
 cfe25c25c996689e9e2adf6ea1b0c8fe:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 cfe3ae08031f7b0422198480c59ecedf:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+cfe46a33611237451e916ecc5f7bf8ff:208185:kurobeats_Ransom.Cerber
 cfe63220cddb78d852c93b664b6d03d5:147501:kurobeats_Trojan.GenericKD.3167727
+cfe7801e2f8414585da8c7b275709f70:270485:kurobeats_Packed.Malware
 cfea3adb5518afcc6b5ac96e42e06243:1060431:kurobeats_Trojan.GenericKD.3204012
 cfebbcf8cccaf5e39571b8d8a18b4044:196608:kurobeats_Packed.Malware
 cfee0e7802d44a9e1eb6b24208bfae11:25768:kurobeats_Packed.Malware
@@ -25448,6 +25489,7 @@ dbd119a4106a7287044c61a666366800:3350816:kurobeats_W32.HfsAdware.1248
 dbd3d6bd87efe9e2852f4da255026ace:2614128:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 dbd49efc03e0ce13ffa8debd468049e1:291007:kurobeats_Packed.Malware
 dbd601cd7ec89b154fff94112abe32a1:3350816:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+dbddf8c76cc777b1512f7f4ebabd7ad9:224577:kurobeats_Trojan.Crypt
 dbdf24832d13ddbd195bd1e3bed67185:372736:kurobeats_Trojan.TeslaCrypt.BK
 dbe258da201c10c19cac9bfb5b066436:320316:kurobeats_Packed.Malware
 dbe2d1c015b38f317ec1f5f0f5305a7c:416926:kurobeats_Gen.Variant.Jaik.12192
@@ -25686,6 +25728,7 @@ ddcd6e0838935f4be0dd35352baedc73:681015:kurobeats_Win32.Trojan.WisdomEyes.151026
 ddcf03317820e69a0bc2cf5d619769ce:3350816:kurobeats_W32.HfsAdware.1248
 ddd0590de82e5d382586ae24d365bb7e:2604976:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 ddd18978375a131beca904a897e48c12:2609872:kurobeats_W32.HfsAdware.1248
+ddd6ea05e903a44387af707bc23e6098:208149:kurobeats_Trojan.Agent/Generic
 ddd777985420a34d18aa290faf780d39:18984:kurobeats_Packed.Malware
 dddb31f1c7792ef595a0d6bc5964c201:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 dddec32e1cff300ad109f4e3cfbb15a8:708096:kurobeats_HW32.Packed.DFEF
@@ -25830,6 +25873,7 @@ df022b3f3137d57ba0e614c9ae38fd49:569416:kurobeats_W32.HfsAdware.59CA
 df025f7460e17c1214630c04b7cbd29d:20919:kurobeats_Packed.Malware
 df02651c6c5544b5f05905b10c5c31f7:2609264:kurobeats_W32.HfsAdware.1248
 df03650447f2af9a7273e9005e0c7b1a:2609872:kurobeats_W32.HfsAdware.1248
+df0ee9d7485dc9a7aee6cadf6453ac30:144896:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9995
 df0f0effbcb8c6b798809a8669723aa1:888832:kurobeats_Trojan.GenericKD.3059269
 df0f496e6a3f556052bf85966d2ed436:1730376:kurobeats_Packed.Malware
 df142dede9a3128985b5e35fcfba4cb1:75264:kurobeats_HW32.Packed.FBA8
@@ -26120,6 +26164,7 @@ e1a4571701490597c4d10385acc7ea41:616848:kurobeats_Live Soft Action (PUA)
 e1a53c49944cdbf77ff4d9c7265fea1d:764416:kurobeats_Mal/Generic-S
 e1ac795789f7d3badc1c6cd05ca9c3f5:2604976:kurobeats_W32.HfsAdware.1248
 e1aed44816522001ed046fa8a010072a:2612192:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+e1b2ab08487048a1f56e0170f9137e53:278808:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9999
 e1b45e7e002d195e0ee04e36ffc7fa2c:1730512:kurobeats_W32.HfsAdware.1248
 e1ba01fb9b591b1d47478ab955ac808c:1730376:kurobeats_Packed.Malware
 e1ba761f23ae5e0b49514ce7970d5e64:2604976:kurobeats_Artemis!E1BA761F23AE
@@ -27300,6 +27345,7 @@ ebb32ef71b14cd82bb3f168b668e6b58:1730512:kurobeats_a variant of Win32/Toolbar.In
 ebb52460c658d191b68fa6738c964da9:3353000:kurobeats_W32.HfsAdware.1248
 ebb8b175d9e2e5e09976ab39783e6955:2604976:kurobeats_W32.HfsAdware.1248
 ebb9b3e84daa2f3982f3288f12d463d8:2609872:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+ebb9e91f5d26e1e413a2da8dac22cef2:144581:kurobeats_Packed.Malware
 ebbb4aedf8ea72c61576e031ee5ccfef:1730512:kurobeats_W32.HfsAdware.1248
 ebbb4aedf8ea72c61576e031ee5ccfef:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 ebbb60a844c57f54c5cc8f0e179e9b2f:812161:kurobeats_Heur/TrojanHorse.ZCML!suspicious
@@ -28340,6 +28386,7 @@ f50f7bf65a49127f8bf1c29f98e21c80:3702536:kurobeats_Packed.Malware
 f510267c9e57ca39d95ba5f6d5b25499:616848:kurobeats_Live Soft Action (PUA)
 f511c3a7e6bbd50703012adb2092f7e1:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 f51691dbd8735cb5306c01588621a685:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+f51961b34f12b7f5fda091a83b358c90:288296:kurobeats_Artemis!F51961B34F12
 f51a29802498b5fbe068bf5432926c8d:2535432:kurobeats_W32.HfsAdware.1248
 f51b027b608b6fa4b6044e47520ac329:1730512:kurobeats_W32.HfsAdware.1248
 f51b027b608b6fa4b6044e47520ac329:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
@@ -28360,6 +28407,7 @@ f5383d336189ecfdd9257f3315ce4f36:2614128:kurobeats_a variant of Win32/Toolbar.In
 f53eb2484a9deea6e70f211daf724871:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 f544a21fd6d64e3a73ea6496766811ef:369664:kurobeats_HW32.Packed.A70C
 f546a7119678fcbfe44ba84a841660d8:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
+f5483166c208007bd02511e34ecaa6de:144896:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9994
 f5486f3786c05c3fec768b614184eddd:1068803:kurobeats_Packed.Malware
 f549642d4e583e6ebfc7fcd938041a8e:3618284:kurobeats_Packed.Malware
 f550fcd69552fe8a51ecef9033845c15:328155:kurobeats_Packed.Malware
@@ -28518,6 +28566,7 @@ f6a646c88dc95579edd56a473650f3d3:128747:kurobeats_Worm.VBS.Dunihi.BO
 f6a71383019639baafe872eceb68bcb1:1730512:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 f6a9243b4bba1c5f6bbd35882fb24318:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 f6aad9b25f8441aad2545eee22fa3690:1730376:kurobeats_Packed.Malware
+f6aae99606eda6f5865ee7beb2302e2a:144896:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9994
 f6acfdd44bff91631c46dfa9299a4fdd:371712:kurobeats_Trojan.GenericKD.1761644
 f6ae0bbf3c3b1ce8f2aec30f73f8871b:295744:kurobeats_Ransomware-FNO!F6AE0BBF3C3B
 f6afa6a9ac2b3ca31c75cbe8682911b7:2535432:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
@@ -29575,6 +29624,7 @@ ff5afcd8509b0e94a0577095bceeac70:401920:kurobeats_Win32.Trojan.Kryptik.vz
 ff5d955a8e5efbee163d6dbdc38c60d4:2614128:kurobeats_a variant of Win32/Toolbar.Inbox.K potentially unwanted
 ff5e3be2b26485ed63167fa065adc33a:2604976:kurobeats_W32.HfsAdware.1248
 ff60be563baf9c178ae857d37c8ba788:368640:kurobeats_Mal/Ransom-EJ
+ff61e919ad69fff8a66ddec5156c86c6:274726:kurobeats_Win32.Trojan.WisdomEyes.151026.9950.9987
 ff633bcf6de90ff4d8f593e3a909cd79:2535432:kurobeats_W32.HfsAdware.1248
 ff641ab54b3689b58c6443414d9922b1:3350816:kurobeats_W32.HfsAdware.1248
 ff66ddd700c7c353d1af8c5ab3aa642c:138480:kurobeats_Packed.Malware
